@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "moment": "^2.29.4"
+  },
+  "name": "clock",
+  "description": "ДЗ 27. Електронний годинник",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
